@@ -1,0 +1,6 @@
+D:\c# programming\basics_refresh\basics_refresh\bin\Debug\basics_refresh.exe.config
+D:\c# programming\basics_refresh\basics_refresh\bin\Debug\basics_refresh.exe
+D:\c# programming\basics_refresh\basics_refresh\bin\Debug\basics_refresh.pdb
+D:\c# programming\basics_refresh\basics_refresh\obj\Debug\basics_refresh.csprojResolveAssemblyReference.cache
+D:\c# programming\basics_refresh\basics_refresh\obj\Debug\basics_refresh.exe
+D:\c# programming\basics_refresh\basics_refresh\obj\Debug\basics_refresh.pdb
